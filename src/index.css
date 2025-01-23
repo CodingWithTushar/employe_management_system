@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#TaskListCheckList::-webkit-scrollbar {
+    display: none;
+}
+
+#AllTasksAdmin::-webkit-scrollbar {
+    display: none;
+}
